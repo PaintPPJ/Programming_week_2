@@ -1,3 +1,3 @@
 ﻿  Source 4.cpp
-C:\Users\DELL\source\repos\Programming week 2 modify\Programming week 2 modify\Source 4.cpp(10,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\Programming week 2 modify\Programming week 2 modify\Source 4.cpp(10,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Programming week 2 modify.vcxproj -> C:\Users\DELL\source\repos\Programming week 2 modify\Debug\Programming week 2 modify.exe
