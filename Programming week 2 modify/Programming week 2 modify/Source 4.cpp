@@ -12,7 +12,7 @@ int main()
 	}
 	else
 	{
-		printf("Yu don't have money");
+		printf("You don't have money");
 	}
 	return 0;
 }
